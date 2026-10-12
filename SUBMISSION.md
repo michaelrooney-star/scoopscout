@@ -24,9 +24,11 @@ Subtitles: demo/ScoopScout-demo.srt
 15 automated tests pass. Live UI checks in the Mission and Inner Sunset produce different nearby recommendations within the same sample calendar gap.
 
 ## Submission checklist
-- Repository URL: add the published GitHub URL to the project form.
-- Project name and description: use the text above.
-- Technologies and team roster: complete the required form fields.
-- Demo: save the video in the project form as required by HackerSquad.
-- Final submission: click Submit for judging and verify the submitted status. A saved draft alone is not a submission.
+- [x] Public repository: https://github.com/michaelrooney-star/scoopscout
+- [x] Project name and description saved in HackerSquad.
+- [x] Akamai and additional stack saved; ScoopScout solo team linked.
+- [x] Existing demo URL included in the saved project description.
+- [ ] Required in-browser demo recording: HackerSquad reports screen-sharing permission denied. The MP4 link alone does not unlock Submit.
+- [x] Problem, stack, product video, and code presentation available locally at http://127.0.0.1:8080/demo.
+- [ ] Final submission: Submit is disabled until the required recording is saved. Current verified state: saved draft, not submitted.
 - Event-specific deadline, rules, and demo requirements: verify the current builder guide/form; do not infer unpublished rules.
