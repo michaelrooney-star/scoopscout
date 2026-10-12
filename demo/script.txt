@@ -1,0 +1,13 @@
+Meet ScoopScout. It finds an ice cream outing that fits a gap in your day, from wherever you are in San Francisco.
+
+Choose a starting point and where you need to end up. For this demo, we use Dolores Park and a manually entered sample schedule. Google Calendar is not connected yet.
+
+The agent finds a thirty minute gap, checks published shop hours, and allows time for walking, enjoying a scoop, and a buffer before your next commitment.
+
+Bi-Rite fits this gap. The estimated outing takes twenty-two minutes, leaving eight minutes before the next busy interval. Source and walking-route links help you verify the plan.
+
+The decision summary explains the checks. Schedule and location stay in the local app. The Akamai-hosted Qwen model receives shop facts and preferences, without calendar times or coordinates.
+
+Change the location to the Inner Sunset, and the recommendation changes to Hometown Creamery. The same calendar gap now has a shorter estimated outing.
+
+The prototype includes Google Calendar authorization and five-minute checks while the page is open. Live calendar access still needs OAuth setup. Walking times and shop hours are estimates and snapshots, so check before leaving.

@@ -1,0 +1,510 @@
+{
+  "origin": "AWS Builder Loft, 525 Market St, San Francisco, CA 94105",
+  "origin_source": "https://builder.aws.com/connect/events/builder-lofts/san-francisco",
+  "checked": "2026-10-12",
+  "places": [
+    {
+      "id": "ghirardelli-palace",
+      "name": "Ghirardelli Ice Cream & Chocolate Shop \u2014 Palace Hotel",
+      "address": "2 New Montgomery St, San Francisco, CA 94105",
+      "walk_minutes_estimate": 5,
+      "tags": [
+        "chocolate",
+        "sundae",
+        "hot fudge",
+        "quick"
+      ],
+      "description": "Nearby choice for chocolate and hot fudge sundaes.",
+      "hours": "Not verified; check the shop before leaving.",
+      "source": "https://www.ghirardelli.com/our-stores",
+      "coordinates": [
+        37.7885,
+        -122.4021
+      ]
+    },
+    {
+      "id": "humphry-ferry",
+      "name": "Humphry Slocombe \u2014 Ferry Building",
+      "address": "One Ferry Building, San Francisco, CA 94111",
+      "walk_minutes_estimate": 15,
+      "tags": [
+        "scoops",
+        "waterfront",
+        "ferry building"
+      ],
+      "description": "Scoop shop at the Ferry Building for a longer waterfront outing.",
+      "hours": "Published: Mon\u2013Thu 11am\u20139pm; Fri\u2013Sun 11am\u201310pm. Recheck before leaving.",
+      "source": "https://humphryslocombe.com/pages/scoop-shops",
+      "coordinates": [
+        37.7955,
+        -122.3937
+      ],
+      "weekly_hours": [
+        [
+          [
+            "11:00",
+            "21:00"
+          ]
+        ],
+        [
+          [
+            "11:00",
+            "21:00"
+          ]
+        ],
+        [
+          [
+            "11:00",
+            "21:00"
+          ]
+        ],
+        [
+          [
+            "11:00",
+            "21:00"
+          ]
+        ],
+        [
+          [
+            "11:00",
+            "22:00"
+          ]
+        ],
+        [
+          [
+            "11:00",
+            "22:00"
+          ]
+        ],
+        [
+          [
+            "11:00",
+            "22:00"
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "birite",
+      "name": "Bi-Rite Creamery",
+      "address": "3692 18th St, San Francisco, CA 94110",
+      "coordinates": [
+        37.7616,
+        -122.4258
+      ],
+      "tags": [
+        "scoops",
+        "sundae",
+        "chocolate"
+      ],
+      "description": "Handmade ice cream and sundaes across from Dolores Park.",
+      "source": "https://biritemarket.com/visit-us-3/",
+      "hours": "Published: 12:00\u201321:00 daily; recheck before leaving.",
+      "weekly_hours": [
+        [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "salt-hayes",
+      "name": "Salt & Straw \u2014 Hayes Valley",
+      "address": "586 Hayes St, San Francisco, CA",
+      "coordinates": [
+        37.7766,
+        -122.4256
+      ],
+      "tags": [
+        "scoops",
+        "hayes valley"
+      ],
+      "description": "A Hayes Valley scoop stop. Check the rotating menu at the shop.",
+      "source": "https://saltandstraw.com/pages/locations/",
+      "hours": "Published: 11:00\u201323:00 daily; recheck before leaving.",
+      "weekly_hours": [
+        [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "salt-fillmore",
+      "name": "Salt & Straw \u2014 Fillmore",
+      "address": "2201 Fillmore St, San Francisco, CA",
+      "coordinates": [
+        37.7891,
+        -122.4341
+      ],
+      "tags": [
+        "scoops",
+        "pacific heights"
+      ],
+      "description": "Scoop shop on Fillmore Street in Pacific Heights.",
+      "source": "https://saltandstraw.com/pages/pacific-heights",
+      "hours": "Published: 11:00\u201323:00 daily; recheck before leaving.",
+      "weekly_hours": [
+        [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "mitchells",
+      "name": "Mitchell\u2019s Ice Cream",
+      "address": "688 San Jose Ave, San Francisco, CA 94110",
+      "coordinates": [
+        37.7441,
+        -122.4229
+      ],
+      "tags": [
+        "scoops",
+        "mission"
+      ],
+      "description": "Long-running ice cream shop at San Jose Avenue and 29th Street.",
+      "source": "https://mitchellsicecream.com/find-us/",
+      "hours": "Published: 11:30\u201323:00 daily; recheck before leaving.",
+      "weekly_hours": [
+        [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ],
+        [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ],
+        [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ],
+        [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ],
+        [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ],
+        [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ],
+        [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "hometown-sunset",
+      "name": "Hometown Creamery \u2014 Inner Sunset",
+      "address": "1290 9th Ave, San Francisco, CA 94122",
+      "coordinates": [
+        37.7649,
+        -122.4662
+      ],
+      "tags": [
+        "scoops",
+        "inner sunset"
+      ],
+      "description": "Farm-to-cone ice cream in the Inner Sunset.",
+      "source": "https://www.sfhometowncreamery.com/",
+      "hours": "Published: 12:00\u201322:00 daily; recheck before leaving.",
+      "weekly_hours": [
+        [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "hometown-hayes",
+      "name": "Hometown Creamery \u2014 Hayes Valley",
+      "address": "432A Octavia St, San Francisco, CA 94102",
+      "coordinates": [
+        37.7753,
+        -122.4242
+      ],
+      "tags": [
+        "scoops",
+        "hayes valley"
+      ],
+      "description": "A Hometown Creamery scoop stop on Octavia.",
+      "source": "https://www.sfhometowncreamery.com/",
+      "hours": "Published: 12:00\u201322:00 daily; recheck before leaving.",
+      "weekly_hours": [
+        [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "humphry-dogpatch",
+      "name": "Humphry Slocombe \u2014 Dogpatch",
+      "address": "699 22nd St, San Francisco, CA 94107",
+      "coordinates": [
+        37.7578,
+        -122.3883
+      ],
+      "tags": [
+        "scoops",
+        "dogpatch"
+      ],
+      "description": "Scoop shop in the Dogpatch neighborhood.",
+      "source": "https://humphryslocombe.com/pages/scoop-shops",
+      "hours": "Published: Mon\u2013Thu 1\u201310pm; Fri\u2013Sun noon\u201310pm. Recheck before leaving.",
+      "weekly_hours": [
+        [
+          [
+            "13:00",
+            "22:00"
+          ]
+        ],
+        [
+          [
+            "13:00",
+            "22:00"
+          ]
+        ],
+        [
+          [
+            "13:00",
+            "22:00"
+          ]
+        ],
+        [
+          [
+            "13:00",
+            "22:00"
+          ]
+        ],
+        [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ]
+      ]
+    }
+  ],
+  "coordinate_note": "Approximate shop coordinates used for rough walking estimates; check directions before leaving."
+}
