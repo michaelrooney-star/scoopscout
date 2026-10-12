@@ -28,7 +28,7 @@ Subtitles: demo/ScoopScout-demo.srt
 - [x] Project name and description saved in HackerSquad.
 - [x] Akamai and additional stack saved; ScoopScout solo team linked.
 - [x] Existing demo URL included in the saved project description.
-- [ ] Required in-browser demo recording: HackerSquad reports screen-sharing permission denied. The MP4 link alone does not unlock Submit.
+- [x] HackerSquad marks the in-browser recording step complete. The latest recording was processing when the final submission succeeded.
 - [x] Problem, stack, product video, and code presentation available locally at http://127.0.0.1:8080/demo.
-- [ ] Final submission: Submit is disabled until the required recording is saved. Current verified state: saved draft, not submitted.
+- [x] Submitted for judging October 12, 2026, at 4:58:08 PM America/Los_Angeles. HackerSquad confirms “Project submitted” and all three steps are complete.
 - Event-specific deadline, rules, and demo requirements: verify the current builder guide/form; do not infer unpublished rules.
