@@ -24,6 +24,15 @@ class Handler(BaseHTTPRequestHandler):
     def do_GET(self):
         if self.headers.get('Host') not in ('127.0.0.1:8080', 'localhost:8080'):
             return self.respond(403, {'error': 'Local access only'})
+        if self.path in ('/demo', '/demo/ScoopScout-demo.mp4'):
+            name = 'presentation.html' if self.path == '/demo' else 'ScoopScout-demo.mp4'
+            body = Path(__file__).with_name('demo').joinpath(name).read_bytes()
+            self.send_response(200)
+            self.send_header('Content-Type', 'text/html; charset=utf-8' if name.endswith('.html') else 'video/mp4')
+            self.send_header('Content-Length', str(len(body)))
+            self.end_headers()
+            self.wfile.write(body)
+            return
         if self.path == '/api/calendar/status':
             return self.respond(200, google_calendar.status())
         if self.path.startswith('/oauth/callback?'):
